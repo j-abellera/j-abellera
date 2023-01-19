@@ -5,6 +5,7 @@
 <ul>
   <li>The secrets to making good fried rice</li>
   <li>3D printing</li>
+  <li>High lumen flashlights</li>
 </ul>
 - 
 <!-- Languages and tools -->
