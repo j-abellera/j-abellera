@@ -1,6 +1,12 @@
 <!-- Header - Introduction to self with captivating headline -->
 <h1>Hello, I'm Justin Abellera. I'm a full-stack developer</h1>
 <!-- Body will include things to make me interesting -->
+✨ My Skills: React.js, Redux, Hooks, Context API, Jest, Cypress, Yum, Axios, JavaScript, HTML, CSS
+<ul>
+  <li>Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Yum, Axios, JavaScript, HTML, CSS</li>
+  <li>Backend:  Node.js, Express, SQL, Docker, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify</li>
+</ul>
+
 👀 I’m currenty interested in:
 <ul>
   <li>The secrets to making good fried rice</li>
