@@ -12,7 +12,6 @@
 <ul>
   <li>React Native</li>
   <li>Python</li>
-  <li>Sass</li>
 </ul>
 <!-- Contact Info -->
 📫 How to reach me
